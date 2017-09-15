@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, PasswordcaseActivity!</string>
+    <string name="app_name">security</string>
+    <string name="button_add">Add Record</string>
+    <string name="button_search">Data Search</string>
+    <string name="button_preview">Data Preview</string>
+    <string name="button_about">about us</string>
+    <string name="add_record_edittext01_hint">key words</string>
+    <string name="add_record_edittext02_hint">account</string>
+    <string name="add_record_edittext03_hint">password</string>
+    <string name="add_record_edittext04_hint">reminds</string>
+    <string name="add_record_button_add">Add</string>
+    <string name="add_record_button_back">Back</string>
+    <string name="add_record_textview01_account">Account</string>
+    <string name="add_record_textview02_password">Password</string>
+    <string name="add_record_textview03_reminds">Reminds</string>
+    <string name="search_textview01_search">Type in KeyWords to Seek</string>
+   
+    <string name="search_button01_search">Search</string>
+    <string name="search_button02_back">Back</string>
+    <string name="search_edittext01_hint">KeyWords here</string>
+    <string name="search_result_delete">delete</string>
+    <string name="search_result_back">back</string>
+    <string name="update_button_confirm">confirm</string>
+</resources>
